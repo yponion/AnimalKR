@@ -1,0 +1,1 @@
+# AnimalKR - swift basic project
